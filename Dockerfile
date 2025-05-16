@@ -1,0 +1,7 @@
+FROM tomcat
+WORKDIR /app
+ARG
+ENV
+COPY
+CMD
+
